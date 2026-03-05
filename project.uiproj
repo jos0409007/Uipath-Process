@@ -1,0 +1,6 @@
+{
+  "Name": "TransferProcess",
+  "ProjectType": "Process",
+  "Description": "that's an example for an automation for peolpe who want to send a transfer to clients",
+  "MainFile": "Main.xaml"
+}
