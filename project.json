@@ -4,6 +4,7 @@
   "description": "that's an example for an automation for peolpe who want to send a transfer to clients",
   "main": "Main.xaml",
   "dependencies": {
+    "BACPlataforma": "[1.0.1]",
     "UiPath.System.Activities": "[25.12.2]"
   },
   "webServices": [],
