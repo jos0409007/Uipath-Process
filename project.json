@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "BACPlataforma": "[1.0.1]",
+    "UiPath.Database.Activities": "[2.0.0]",
     "UiPath.System.Activities": "[25.12.2]"
   },
   "webServices": [],
